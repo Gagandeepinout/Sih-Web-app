@@ -1,4 +1,4 @@
-# A-ONE Coastal Intelligence
+# Sand Coastal Intelligence
 
 A modern, premium web application for exploring and analyzing India's beautiful coastal beaches. This platform combines geographical mapping, scientific sand analysis, and visual intelligence to provide detailed insights into beach characteristics.
 
@@ -194,3 +194,4 @@ For questions or support, please open an issue on GitHub.
 ---
 
 Built with ❤️ for exploring India's beautiful coastline
+
